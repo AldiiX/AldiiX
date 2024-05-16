@@ -10,10 +10,16 @@
 
 ---
 
-### **📊 GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=AldiiX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+### **📊 Coding Stats:**
+<!--![](https://github-readme-stats.vercel.app/api?username=AldiiX&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AldiiX&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiiX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiiX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+
+<div style="display:flex; gap:20px;">
+  <img src="https://wakatime.com/share/@1acaf222-1e95-4b63-8353-39b3cbca8bd1/77d587fc-e677-4abc-948a-8094a1924b35.svg" width="300">
+  <img src="https://wakatime.com/share/@1acaf222-1e95-4b63-8353-39b3cbca8bd1/74ff3709-1576-41b1-83ac-823bd6bf3874.svg" width="300">
+  <img src="https://wakatime.com/share/@1acaf222-1e95-4b63-8353-39b3cbca8bd1/60cf2b9f-6e7c-4100-94c0-b17db9e17b96.svg" width="300">
+</div>
 
 <!-- ---
 
@@ -24,6 +30,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AldiiX&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AldiiX&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Vytvořeno přes GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=AldiiX&icon=0&color=3)](https://visitcount.itsvg.in)
